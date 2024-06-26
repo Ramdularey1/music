@@ -3,7 +3,7 @@ import { useSelector, useDispatch } from 'react-redux';
 import PlayingMusic from './PlayingMusic';
 import Music from './Music';
 import { updateCurrentSong } from '../utils/currentMusicSlice';
-import image from "../../public/hindi.jpeg"
+
 
 
 
