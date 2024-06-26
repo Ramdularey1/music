@@ -1,9 +1,9 @@
 import React 
 from 'react'
-import { FaInstagram } from "react-icons/fa";
-import { CiFacebook } from "react-icons/ci";
-import { FiTwitter } from "react-icons/fi";
-import { CiYoutube } from "react-icons/ci";
+// import { FaInstagram } from "react-icons/fa";
+// import { CiFacebook } from "react-icons/ci";
+// import { FiTwitter } from "react-icons/fi";
+// import { CiYoutube } from "react-icons/ci";
 
 function Footer() {
   return (
@@ -23,10 +23,10 @@ PRIVACY POLICY | TERMS OF USE |
 CONTACT US | HELLOTUNES</p>
         </div>
         <div className='flex gap-2 items-center justify-center'>
-        <FaInstagram size={"2rem"}/>
+        {/* <FaInstagram size={"2rem"}/>
         <CiYoutube size={"2rem"}/>
         <FiTwitter size={"2rem"}/>
-        <CiFacebook size={"2rem"}/>
+        <CiFacebook size={"2rem"}/> */}
         </div>
     </div>
     </div>
