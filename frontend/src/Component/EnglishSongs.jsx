@@ -40,7 +40,7 @@ console.log("redux",oldSongs)
 
         <div className=' w-10/12  '>
           <div className='w-[200px] flex relative'>
-            <img className='w-[120px]  h-auto sm:w-[200px] md:w-[250px] lg:w-[300px] xl:w-[400px]' src={"../../public/hindi.jpeg"} alt="noimage" />
+            {/* <img className='w-[120px]  h-auto sm:w-[200px] md:w-[250px] lg:w-[300px] xl:w-[400px]' src={"../../public/hindi.jpeg"} alt="noimage" /> */}
             <div className='flex items-center flex-col'>
               <h1 className=' p-4 md:w-[200px] text-[22px] lg:w-[250px]'>Trending in Hindi</h1>
               <button className='absolute bottom-0 w-[90px] h-[30px] rounded bg-slate-200'>Play Song</button>
